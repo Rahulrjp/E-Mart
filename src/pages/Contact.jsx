@@ -14,9 +14,9 @@ const Contact = () => {
               <p className="text-gray-300">Have a question or need support? We're here to help you with your electronics journey.</p>
             </div>
             <div>
-              <p><strong>📍 Address:</strong> 123 Tech Lane, Kolkata, India</p>
+              <p><strong>📍 Address:</strong>Rajpura NH19 Mugma, Dhanbad, India</p>
               <p><strong>📧 Email:</strong> support@emart.com</p>
-              <p><strong>📞 Phone:</strong> +91 98765 43210</p>
+              <p><strong>📞 Phone:</strong> +91 62999 xxx27</p>
             </div>
           </div>
 
@@ -24,11 +24,11 @@ const Contact = () => {
           <form className="space-y-6">
             <div>
               <label className="block text-white mb-1">Your Name</label>
-              <input type="text" placeholder="John Doe" className="w-full px-4 py-2 bg-white/20 border border-white/30 text-white rounded-xl placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+              <input type="text" placeholder="Enter Your Name" className="w-full px-4 py-2 bg-white/20 border border-white/30 text-white rounded-xl placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" />
             </div>
             <div>
               <label className="block text-white mb-1">Email Address</label>
-              <input type="email" placeholder="john@example.com" className="w-full px-4 py-2 bg-white/20 border border-white/30 text-white rounded-xl placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+              <input type="email" placeholder="Enter Your Email" className="w-full px-4 py-2 bg-white/20 border border-white/30 text-white rounded-xl placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" />
             </div>
             <div>
               <label className="block text-white mb-1">Your Message</label>
