@@ -1,0 +1,8 @@
+{
+    "promocodes" : {
+        "GET20" : 20,
+        "FLAT30" : 30,
+        "FIRST" : 50,
+        "WELCOME" : 50
+    }
+}

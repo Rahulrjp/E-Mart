@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+/* user button  */
+.cl-avatarBox{
+    width: 3rem;
+    height: 3rem;
+}
+
+.arrows{
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+}
+
+input{
+    background-color: #ffffff;
+    accent-color: red;
+    border: 1px solid #ccc;
+    color: #333;
+}
+button{
+    background-color: #046262;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #158080;
+}
